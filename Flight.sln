@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flight", "Flight\Flight.csproj", "{134A2B9D-FE96-41CE-B5EE-90868F52E511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{FC690A62-AB11-459D-A0EB-864B1D925CD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{134A2B9D-FE96-41CE-B5EE-90868F52E511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134A2B9D-FE96-41CE-B5EE-90868F52E511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134A2B9D-FE96-41CE-B5EE-90868F52E511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134A2B9D-FE96-41CE-B5EE-90868F52E511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC690A62-AB11-459D-A0EB-864B1D925CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC690A62-AB11-459D-A0EB-864B1D925CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC690A62-AB11-459D-A0EB-864B1D925CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC690A62-AB11-459D-A0EB-864B1D925CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFB000C9-E327-488D-8557-A4D86D14F0D1}
+	EndGlobalSection
+EndGlobal
